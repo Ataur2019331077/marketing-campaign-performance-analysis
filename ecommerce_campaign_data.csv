@@ -1,0 +1,301 @@
+user_id,timestamp,campaign_id,campaign_source,device_type,page_visited,time_spent_seconds,clicked_ad,products_viewed,added_to_cart,purchased,purchase_amount,location,browser,os
+user_001,2023-05-05 18:49:39,camp_003,Direct,Desktop,/cart,177,1,0,0,0,0.0,"New Jeremy, RI",Edge,iOS
+user_002,2023-05-05 17:00:47,camp_001,Google Ads,Tablet,/home,59,1,0,0,0,0.0,"Lake Christina, NV",Safari,iOS
+user_003,2023-05-07 10:01:28,camp_006,Instagram,Mobile,/products/home-goods,214,1,1,0,0,0.0,"New Chloeberg, NM",Chrome,iOS
+user_004,2023-05-01 20:13:55,camp_008,Email,Desktop,/home,136,1,0,0,0,0.0,"North Garyton, NM",Opera,iOS
+user_005,2023-05-05 21:44:02,camp_009,YouTube,Desktop,/checkout,69,1,0,0,0,0.0,"East Lorimouth, NJ",Safari,Android
+user_006,2023-05-01 15:11:45,camp_009,Affiliate,Tablet,/products/electronics,132,0,4,0,0,0.0,"Romeroton, NY",Opera,Android
+user_007,2023-05-07 11:12:20,camp_004,YouTube,Tablet,/cart,202,1,0,0,0,0.0,"North Michele, IN",Opera,Android
+user_008,2023-05-02 16:54:18,camp_015,YouTube,Desktop,/products/home-goods,289,1,9,1,0,0.0,"Perezborough, AZ",Edge,macOS
+user_009,2023-05-03 19:40:35,camp_001,Direct,Desktop,/home,98,0,0,0,0,0.0,"Laneton, LA",Chrome,Android
+user_010,2023-05-02 15:55:54,camp_007,Direct,Mobile,/products/home-goods,123,0,2,0,0,0.0,"Maldonadoberg, PR",Chrome,Linux
+user_011,2023-05-06 19:01:52,camp_015,YouTube,Mobile,/products/electronics,160,1,0,0,0,0.0,"East Annette, VA",Opera,Linux
+user_012,2023-05-07 18:45:14,camp_004,Facebook,Tablet,/account/signup,243,1,0,0,0,0.0,"Fishershire, NH",Opera,Android
+user_013,2023-05-06 12:50:52,camp_008,Facebook,Mobile,/products/books,152,1,0,0,0,0.0,"Weaverview, WV",Opera,iOS
+user_014,2023-05-04 20:10:30,camp_008,Facebook,Desktop,/products/electronics,171,1,8,0,0,0.0,"Moranport, CO",Edge,Windows
+user_015,2023-05-07 21:16:57,camp_015,Twitter,Tablet,/products/books,63,1,10,0,0,0.0,"Lake Kyleburgh, CO",Chrome,Linux
+user_016,2023-05-05 18:20:42,camp_005,Facebook,Desktop,/home,70,1,0,0,0,0.0,"New Michelleshire, MS",Firefox,macOS
+user_017,2023-05-05 17:11:11,camp_015,Direct,Tablet,/products/books,227,0,10,0,0,0.0,"North John, WI",Safari,Android
+user_018,2023-05-07 15:22:37,camp_007,Twitter,Tablet,/products/electronics,229,0,4,0,0,0.0,"West Billytown, AR",Edge,macOS
+user_019,2023-05-06 19:15:49,camp_009,YouTube,Mobile,/cart,29,1,0,0,0,0.0,"North Wanda, CT",Firefox,macOS
+user_020,2023-05-02 13:33:38,camp_002,Facebook,Mobile,/account/signup,281,1,0,0,0,0.0,"East Fernando, CO",Firefox,Windows
+user_021,2023-05-03 13:59:30,camp_013,Affiliate,Desktop,/home,117,0,0,0,0,0.0,"North Jonathan, NV",Chrome,iOS
+user_022,2023-05-06 20:04:10,camp_007,Referral,Tablet,/special-offer,129,1,0,0,0,0.0,"Blanchardbury, AL",Safari,Linux
+user_023,2023-05-03 13:49:58,camp_003,Facebook,Tablet,/checkout,138,1,0,0,0,0.0,"East Margaret, SD",Chrome,Windows
+user_024,2023-05-05 10:44:35,camp_005,Google Ads,Tablet,/checkout,44,1,0,0,0,0.0,"Frankfurt, WI",Edge,Android
+user_025,2023-05-02 11:37:18,camp_009,Google Ads,Mobile,/products/electronics,183,1,2,0,0,0.0,"Nguyenberg, WA",Edge,Windows
+user_026,2023-05-03 21:49:42,camp_006,Direct,Desktop,/products/home-goods,246,0,1,0,0,0.0,"North Juanbury, SD",Edge,iOS
+user_027,2023-05-07 21:13:02,camp_007,Referral,Tablet,/account/login,6,1,0,0,0,0.0,"Laurenton, MI",Firefox,iOS
+user_028,2023-05-06 16:22:26,camp_003,Instagram,Desktop,/products/books,165,1,6,0,0,0.0,"Kelseytown, SD",Safari,macOS
+user_029,2023-05-06 10:06:43,camp_015,Facebook,Tablet,/account/login,160,1,0,0,0,0.0,"Gravesborough, WY",Opera,Linux
+user_030,2023-05-05 10:10:02,camp_010,Referral,Desktop,/products/electronics,289,0,9,0,0,0.0,"East Amanda, ME",Firefox,Linux
+user_031,2023-05-06 18:52:06,camp_005,Organic Search,Mobile,/special-offer,171,1,0,0,0,0.0,"Traceystad, KY",Firefox,macOS
+user_032,2023-05-04 19:01:58,camp_011,Twitter,Desktop,/cart,122,1,0,0,0,0.0,"New Stephanie, MO",Safari,Android
+user_033,2023-05-03 17:40:17,camp_001,Facebook,Mobile,/account/signup,8,1,0,0,0,0.0,"Bruceland, NC",Firefox,Linux
+user_034,2023-05-06 12:16:38,camp_004,Direct,Desktop,/special-offer,226,1,0,0,0,0.0,"Jonesport, PW",Chrome,Windows
+user_035,2023-05-06 18:55:00,camp_003,Organic Search,Tablet,/account/signup,18,1,0,0,0,0.0,"Leeborough, MA",Opera,Linux
+user_036,2023-05-02 20:18:27,camp_008,Instagram,Tablet,/products/apparel,217,1,3,0,0,0.0,"South Jeremytown, ID",Chrome,iOS
+user_037,2023-05-05 18:56:03,camp_008,Facebook,Mobile,/products/books,122,1,3,0,0,0.0,"West Stephanieberg, WA",Safari,Android
+user_038,2023-05-02 10:05:40,camp_012,YouTube,Desktop,/account/login,41,1,0,0,0,0.0,"Angelaville, AR",Safari,Linux
+user_039,2023-05-05 09:36:15,camp_010,Affiliate,Mobile,/special-offer,203,1,0,0,0,0.0,"Dylanfort, KY",Chrome,Linux
+user_040,2023-05-05 11:40:32,camp_007,Facebook,Mobile,/home,34,1,0,0,0,0.0,"East Emily, NH",Chrome,Android
+user_041,2023-05-04 10:32:38,camp_007,Email,Desktop,/special-offer,192,1,0,0,0,0.0,"Elizabethfurt, ND",Chrome,Windows
+user_042,2023-05-03 09:05:34,camp_002,Twitter,Desktop,/home,175,0,0,0,0,0.0,"Lake Theresastad, GA",Chrome,Android
+user_043,2023-05-02 19:11:18,camp_014,Affiliate,Tablet,/products/apparel,90,0,4,1,1,71.05,"Virginiahaven, DE",Firefox,macOS
+user_044,2023-05-03 18:01:33,camp_015,Google Ads,Tablet,/products/apparel,164,1,4,1,1,225.32,"Port Henry, VA",Chrome,Android
+user_045,2023-05-01 18:40:20,camp_013,Twitter,Tablet,/products/books,268,1,8,1,0,0.0,"Mariaside, AZ",Firefox,Android
+user_046,2023-05-07 18:20:23,camp_005,Instagram,Desktop,/cart,150,1,0,0,0,0.0,"New Janet, MP",Safari,Linux
+user_047,2023-05-05 17:39:42,camp_008,Facebook,Tablet,/products/books,198,1,7,1,1,175.55,"Lake Mary, FM",Edge,iOS
+user_048,2023-05-04 17:34:00,camp_006,Twitter,Tablet,/products/home-goods,255,1,8,0,0,0.0,"Sextonborough, ME",Opera,iOS
+user_049,2023-05-07 10:13:56,camp_008,Twitter,Desktop,/account/signup,299,0,0,0,0,0.0,"Ronaldtown, TN",Edge,macOS
+user_050,2023-05-03 20:03:44,camp_013,Facebook,Tablet,/special-offer,51,1,0,0,0,0.0,"Annebury, KS",Safari,iOS
+user_051,2023-05-03 14:57:23,camp_002,Referral,Tablet,/account/login,45,1,0,0,0,0.0,"Johnsonhaven, OH",Chrome,Linux
+user_052,2023-05-01 11:00:01,camp_005,Referral,Desktop,/products/apparel,143,1,10,1,0,0.0,"Phillipsborough, SD",Edge,Windows
+user_053,2023-05-05 20:30:16,camp_003,Organic Search,Desktop,/products/electronics,13,0,9,1,0,0.0,"Brownstad, WA",Edge,Android
+user_054,2023-05-04 14:34:43,camp_012,Email,Desktop,/home,243,1,0,0,0,0.0,"West Kyle, VT",Opera,iOS
+user_055,2023-05-07 15:10:05,camp_014,Organic Search,Mobile,/account/login,246,0,0,0,0,0.0,"Port Emma, MP",Safari,Android
+user_056,2023-05-01 15:48:09,camp_005,Referral,Mobile,/account/signup,204,1,0,0,0,0.0,"Johnberg, VI",Firefox,Android
+user_057,2023-05-02 12:23:17,camp_001,Direct,Mobile,/products/apparel,164,0,7,0,0,0.0,"Johnsonhaven, KY",Edge,Windows
+user_058,2023-05-07 12:46:54,camp_006,Twitter,Desktop,/products/home-goods,191,0,6,1,0,0.0,"Whitechester, FM",Edge,Windows
+user_059,2023-05-05 18:14:48,camp_006,Direct,Mobile,/products/books,38,1,1,0,0,0.0,"North Deborah, AL",Edge,Windows
+user_060,2023-05-02 15:57:53,camp_011,Referral,Tablet,/account/signup,68,1,0,0,0,0.0,"Brownchester, UT",Firefox,Android
+user_061,2023-05-04 14:55:01,camp_007,Direct,Tablet,/checkout,251,1,0,0,0,0.0,"Lake Brandonfurt, NM",Safari,Linux
+user_062,2023-05-07 19:35:40,camp_013,Affiliate,Tablet,/account/signup,281,0,0,0,0,0.0,"Lake Dianeville, FL",Edge,Linux
+user_063,2023-05-02 09:11:47,camp_015,Instagram,Desktop,/products/books,246,1,6,1,0,0.0,"South Amberborough, NE",Opera,macOS
+user_064,2023-05-06 10:41:02,camp_014,Twitter,Tablet,/cart,102,0,0,0,0,0.0,"East Kaylee, IL",Opera,Windows
+user_065,2023-05-03 09:26:28,camp_003,YouTube,Mobile,/products/home-goods,151,1,9,1,0,0.0,"Christinemouth, OH",Firefox,Windows
+user_066,2023-05-06 17:35:09,camp_013,Google Ads,Tablet,/products/home-goods,262,1,9,0,0,0.0,"North Michele, UT",Edge,Windows
+user_067,2023-05-07 09:22:40,camp_006,Referral,Desktop,/products/apparel,123,1,0,0,0,0.0,"Craigmouth, VI",Edge,macOS
+user_068,2023-05-01 11:50:32,camp_011,Google Ads,Tablet,/cart,183,1,0,0,0,0.0,"East Caroline, NV",Chrome,Windows
+user_069,2023-05-04 13:56:30,camp_014,Affiliate,Tablet,/products/home-goods,218,0,10,0,0,0.0,"Cantuside, MI",Edge,Windows
+user_070,2023-05-06 10:54:09,camp_014,YouTube,Desktop,/account/login,62,1,0,0,0,0.0,"New Nichole, MI",Chrome,Linux
+user_071,2023-05-06 11:59:51,camp_005,Affiliate,Mobile,/cart,264,0,0,0,0,0.0,"North Stevenburgh, SC",Opera,Windows
+user_072,2023-05-03 09:08:11,camp_010,Referral,Tablet,/products/electronics,70,0,5,0,0,0.0,"Port Kayla, MI",Opera,Android
+user_073,2023-05-01 20:36:29,camp_012,Direct,Desktop,/cart,226,0,0,0,0,0.0,"South Cesarfurt, VT",Safari,Windows
+user_074,2023-05-05 10:32:55,camp_015,Google Ads,Mobile,/products/electronics,248,1,9,0,0,0.0,"East Maryton, TX",Safari,Android
+user_075,2023-05-04 14:36:56,camp_015,Email,Tablet,/cart,265,0,0,0,0,0.0,"Williamport, AL",Firefox,Android
+user_076,2023-05-05 14:57:51,camp_008,Referral,Desktop,/cart,280,1,0,0,0,0.0,"Lake Samantha, VT",Safari,Linux
+user_077,2023-05-03 19:43:53,camp_011,Instagram,Tablet,/cart,96,1,0,0,0,0.0,"Lake Angela, NH",Opera,iOS
+user_078,2023-05-05 17:07:45,camp_005,Direct,Tablet,/account/signup,134,0,0,0,0,0.0,"Annafort, TX",Chrome,Windows
+user_079,2023-05-02 10:26:11,camp_013,Facebook,Desktop,/products/home-goods,121,1,8,0,0,0.0,"West Bruceside, NV",Safari,Windows
+user_080,2023-05-02 14:37:06,camp_014,Instagram,Tablet,/home,297,1,0,0,0,0.0,"South Patricia, NJ",Opera,macOS
+user_081,2023-05-05 17:48:41,camp_014,Referral,Mobile,/products/books,144,1,10,0,0,0.0,"Lake Mariahview, AR",Opera,Linux
+user_082,2023-05-01 20:01:29,camp_003,Facebook,Desktop,/products/home-goods,194,1,1,0,0,0.0,"Port Shane, KY",Safari,macOS
+user_083,2023-05-02 11:40:02,camp_001,YouTube,Mobile,/checkout,83,1,0,0,0,0.0,"Lake Annatown, KS",Chrome,Linux
+user_084,2023-05-06 16:16:47,camp_015,Twitter,Tablet,/products/electronics,21,0,2,0,0,0.0,"Leefort, VA",Opera,Windows
+user_085,2023-05-07 09:37:48,camp_004,Google Ads,Mobile,/products/electronics,30,1,9,0,0,0.0,"Boltonborough, AZ",Firefox,Windows
+user_086,2023-05-07 09:19:13,camp_008,Google Ads,Desktop,/checkout,230,1,0,0,0,0.0,"Baldwinchester, MT",Edge,Android
+user_087,2023-05-03 14:36:51,camp_002,Facebook,Tablet,/home,291,1,0,0,0,0.0,"Rebeccastad, AK",Opera,macOS
+user_088,2023-05-07 18:21:23,camp_007,Instagram,Mobile,/account/signup,91,1,0,0,0,0.0,"North Thomasville, AS",Firefox,iOS
+user_089,2023-05-07 12:26:05,camp_013,Direct,Desktop,/products/books,284,0,10,0,0,0.0,"Wilsonshire, NJ",Safari,iOS
+user_090,2023-05-05 19:14:31,camp_003,Organic Search,Mobile,/home,226,1,0,0,0,0.0,"Westmouth, KS",Edge,macOS
+user_091,2023-05-03 11:56:29,camp_014,Referral,Mobile,/account/signup,196,1,0,0,0,0.0,"South Shannon, AL",Firefox,Linux
+user_092,2023-05-03 13:18:56,camp_012,Direct,Tablet,/products/home-goods,280,1,7,1,1,388.27,"Roberthaven, IL",Safari,Android
+user_093,2023-05-06 13:50:16,camp_015,Facebook,Tablet,/products/books,145,1,6,0,0,0.0,"Lake Jenniferbury, SD",Firefox,macOS
+user_094,2023-05-07 16:35:04,camp_011,Facebook,Desktop,/special-offer,189,1,0,0,0,0.0,"Reginaview, MD",Opera,macOS
+user_095,2023-05-01 21:13:27,camp_001,Instagram,Desktop,/special-offer,14,1,0,0,0,0.0,"East Brandon, VT",Edge,Linux
+user_096,2023-05-06 11:59:11,camp_001,Email,Desktop,/account/signup,189,0,0,0,0,0.0,"Claireburgh, WA",Firefox,Linux
+user_097,2023-05-01 21:42:35,camp_006,Google Ads,Mobile,/checkout,130,1,0,0,0,0.0,"Nicholsland, RI",Edge,iOS
+user_098,2023-05-01 12:49:25,camp_015,Email,Desktop,/account/login,234,0,0,0,0,0.0,"Susanbury, MP",Opera,macOS
+user_099,2023-05-01 18:48:31,camp_001,Instagram,Desktop,/checkout,53,1,0,0,0,0.0,"North Jamie, PA",Opera,Linux
+user_100,2023-05-01 20:17:42,camp_009,Google Ads,Mobile,/special-offer,191,1,0,0,0,0.0,"Stokestown, IA",Safari,Android
+user_101,2023-05-02 21:48:48,camp_010,Google Ads,Mobile,/products/books,241,1,6,0,0,0.0,"Port Tanyahaven, AZ",Opera,macOS
+user_102,2023-05-04 20:20:17,camp_013,Affiliate,Tablet,/account/login,88,0,0,0,0,0.0,"East Seanbury, MS",Chrome,Linux
+user_103,2023-05-06 13:13:34,camp_012,Organic Search,Desktop,/home,125,0,0,0,0,0.0,"West Elainechester, TN",Safari,Linux
+user_104,2023-05-06 12:28:39,camp_015,YouTube,Tablet,/products/apparel,16,1,3,0,0,0.0,"Willieview, KY",Firefox,iOS
+user_105,2023-05-01 09:30:29,camp_002,Referral,Desktop,/cart,34,1,0,0,0,0.0,"Lake Tracy, MH",Safari,macOS
+user_106,2023-05-05 17:58:00,camp_011,Google Ads,Desktop,/home,206,1,0,0,0,0.0,"South Matthewtown, NJ",Opera,Linux
+user_107,2023-05-02 11:43:00,camp_012,Google Ads,Mobile,/cart,145,1,0,0,0,0.0,"Humphreyside, AR",Edge,Linux
+user_108,2023-05-06 20:30:25,camp_001,Direct,Mobile,/products/electronics,126,1,4,0,0,0.0,"New Jacob, NY",Safari,macOS
+user_109,2023-05-06 12:09:55,camp_011,Facebook,Tablet,/products/apparel,65,1,4,0,0,0.0,"Michaelmouth, MA",Safari,Windows
+user_110,2023-05-02 20:36:47,camp_006,Instagram,Mobile,/products/apparel,169,1,4,1,0,0.0,"East Nicoleshire, MA",Firefox,macOS
+user_111,2023-05-02 17:43:01,camp_015,Twitter,Desktop,/account/signup,19,1,0,0,0,0.0,"North Michaelstad, MI",Firefox,Windows
+user_112,2023-05-04 09:37:48,camp_005,Google Ads,Tablet,/cart,117,1,0,0,0,0.0,"Lake Kimberly, TX",Chrome,Linux
+user_113,2023-05-07 18:47:39,camp_013,Twitter,Desktop,/products/apparel,255,0,9,1,1,97.27,"Lake Jeffreybury, MH",Chrome,Windows
+user_114,2023-05-04 12:39:27,camp_012,Direct,Tablet,/home,286,1,0,0,0,0.0,"North Carolynstad, NC",Edge,Windows
+user_115,2023-05-01 12:18:11,camp_010,Organic Search,Tablet,/account/login,71,1,0,0,0,0.0,"New Elizabethhaven, TN",Edge,Windows
+user_116,2023-05-02 10:40:53,camp_001,Direct,Tablet,/special-offer,115,1,0,0,0,0.0,"Benitezburgh, NC",Opera,Windows
+user_117,2023-05-05 13:37:16,camp_011,Instagram,Tablet,/products/apparel,228,1,7,0,0,0.0,"Wiseshire, GA",Edge,Android
+user_118,2023-05-07 11:17:13,camp_011,Organic Search,Mobile,/checkout,292,0,0,0,0,0.0,"North Johnfort, RI",Safari,Android
+user_119,2023-05-07 17:35:10,camp_005,Instagram,Desktop,/products/apparel,45,1,0,0,0,0.0,"Port Jennifer, WI",Chrome,Linux
+user_120,2023-05-06 10:14:04,camp_004,Facebook,Tablet,/checkout,98,1,0,0,0,0.0,"Deleonchester, DC",Firefox,Windows
+user_121,2023-05-03 17:28:37,camp_010,Affiliate,Desktop,/checkout,296,1,0,0,0,0.0,"South Jeffrey, ID",Opera,Windows
+user_122,2023-05-06 21:03:01,camp_004,Twitter,Desktop,/checkout,127,0,0,0,0,0.0,"Amyshire, AZ",Opera,Android
+user_123,2023-05-07 13:22:17,camp_003,Email,Tablet,/products/apparel,86,0,4,0,0,0.0,"Newtonton, OR",Chrome,Android
+user_124,2023-05-05 11:45:58,camp_013,YouTube,Mobile,/products/electronics,89,1,0,0,0,0.0,"South Codyville, AS",Safari,Android
+user_125,2023-05-04 14:44:31,camp_004,Instagram,Tablet,/products/books,262,1,6,0,0,0.0,"New Jennifer, NH",Edge,macOS
+user_126,2023-05-03 10:55:14,camp_004,Organic Search,Mobile,/account/login,138,0,0,0,0,0.0,"Mckeeshire, HI",Firefox,Android
+user_127,2023-05-03 12:52:03,camp_013,Instagram,Tablet,/home,98,1,0,0,0,0.0,"Lindaport, AZ",Edge,Windows
+user_128,2023-05-03 18:08:52,camp_002,Twitter,Mobile,/products/books,206,0,6,0,0,0.0,"Catherineberg, MA",Edge,Android
+user_129,2023-05-07 13:33:00,camp_014,Instagram,Tablet,/account/signup,38,1,0,0,0,0.0,"North Gregory, GU",Opera,macOS
+user_130,2023-05-03 14:12:41,camp_006,Google Ads,Desktop,/products/books,55,1,6,1,0,0.0,"Oconnorland, PW",Edge,Linux
+user_131,2023-05-05 13:10:17,camp_009,Referral,Tablet,/products/home-goods,218,0,10,1,1,215.78,"West Christopher, SC",Edge,Windows
+user_132,2023-05-05 13:57:26,camp_010,Organic Search,Mobile,/cart,80,1,0,0,0,0.0,"New Debra, WY",Firefox,macOS
+user_133,2023-05-07 21:29:45,camp_007,Organic Search,Mobile,/checkout,284,1,0,0,0,0.0,"East Loriberg, MH",Opera,Linux
+user_134,2023-05-05 19:43:00,camp_002,Google Ads,Desktop,/checkout,40,1,0,0,0,0.0,"Port Julianfurt, SC",Opera,Windows
+user_135,2023-05-07 12:48:52,camp_005,Direct,Desktop,/special-offer,106,0,0,0,0,0.0,"Barberland, IL",Edge,macOS
+user_136,2023-05-07 11:05:00,camp_007,Affiliate,Tablet,/products/apparel,158,0,7,0,0,0.0,"West Ashley, MD",Firefox,Windows
+user_137,2023-05-05 14:43:58,camp_006,Google Ads,Desktop,/special-offer,65,1,0,0,0,0.0,"Alanmouth, UT",Edge,iOS
+user_138,2023-05-06 12:45:26,camp_004,Email,Desktop,/products/apparel,224,0,3,0,0,0.0,"Williamburgh, SC",Firefox,macOS
+user_139,2023-05-05 20:56:29,camp_004,Twitter,Mobile,/cart,187,1,0,0,0,0.0,"Karaborough, PA",Chrome,Windows
+user_140,2023-05-02 16:20:00,camp_012,Referral,Desktop,/account/login,284,1,0,0,0,0.0,"Mathewsfurt, PA",Opera,Linux
+user_141,2023-05-06 10:16:30,camp_014,Facebook,Tablet,/special-offer,253,1,0,0,0,0.0,"Lake Kevinfurt, IA",Chrome,Linux
+user_142,2023-05-01 17:22:08,camp_007,Organic Search,Mobile,/products/apparel,136,1,1,0,0,0.0,"Ambershire, DC",Opera,iOS
+user_143,2023-05-01 15:31:42,camp_013,Twitter,Mobile,/products/apparel,241,1,5,1,0,0.0,"West Ericside, VT",Edge,Android
+user_144,2023-05-03 16:36:04,camp_002,Referral,Mobile,/checkout,203,1,0,0,0,0.0,"Codyshire, LA",Firefox,iOS
+user_145,2023-05-02 21:31:08,camp_008,Instagram,Mobile,/products/books,13,1,10,0,0,0.0,"Jeffreymouth, TX",Chrome,Windows
+user_146,2023-05-01 20:28:17,camp_012,Organic Search,Tablet,/products/books,142,0,3,0,0,0.0,"South Dorothyburgh, SC",Edge,macOS
+user_147,2023-05-07 10:21:40,camp_012,Affiliate,Desktop,/products/books,200,0,9,0,0,0.0,"Port Tina, CO",Edge,Linux
+user_148,2023-05-01 19:51:23,camp_013,Google Ads,Desktop,/products/apparel,177,1,9,1,1,122.71,"Lake Sarahfurt, MA",Edge,iOS
+user_149,2023-05-03 21:45:27,camp_014,Affiliate,Desktop,/products/books,264,0,7,0,0,0.0,"Hollandshire, NE",Edge,iOS
+user_150,2023-05-06 10:38:37,camp_005,Facebook,Desktop,/products/electronics,130,1,10,0,0,0.0,"North Jeffrey, MH",Chrome,Android
+user_151,2023-05-06 18:45:57,camp_004,Referral,Tablet,/products/home-goods,295,1,4,0,0,0.0,"North Juliefurt, NM",Chrome,Windows
+user_152,2023-05-03 17:02:40,camp_012,Affiliate,Tablet,/products/home-goods,59,0,1,0,0,0.0,"South Kristinfort, NV",Safari,iOS
+user_153,2023-05-06 17:28:40,camp_006,Google Ads,Mobile,/products/apparel,168,1,1,0,0,0.0,"West Melodystad, VA",Edge,Linux
+user_154,2023-05-02 16:32:47,camp_009,Email,Desktop,/products/electronics,143,1,9,0,0,0.0,"North Ethan, OH",Opera,macOS
+user_155,2023-05-07 10:31:34,camp_007,YouTube,Tablet,/products/books,198,1,8,0,0,0.0,"East Omarborough, PA",Opera,macOS
+user_156,2023-05-06 09:35:40,camp_005,Facebook,Desktop,/account/signup,71,1,0,0,0,0.0,"Silvaborough, CT",Opera,Android
+user_157,2023-05-07 09:07:35,camp_001,Twitter,Desktop,/account/signup,262,1,0,0,0,0.0,"Gordonland, NY",Opera,macOS
+user_158,2023-05-07 12:43:25,camp_006,Facebook,Tablet,/account/login,203,1,0,0,0,0.0,"Robertborough, VA",Edge,Linux
+user_159,2023-05-07 12:18:27,camp_003,Instagram,Desktop,/products/apparel,249,1,8,0,0,0.0,"Samanthaton, MO",Chrome,Windows
+user_160,2023-05-03 11:56:00,camp_006,Affiliate,Desktop,/products/books,235,0,0,0,0,0.0,"Allisonside, WV",Edge,macOS
+user_161,2023-05-05 19:09:26,camp_010,Facebook,Tablet,/checkout,274,1,0,0,0,0.0,"New Johnny, WY",Chrome,macOS
+user_162,2023-05-07 12:20:55,camp_014,Instagram,Desktop,/products/electronics,135,1,0,0,0,0.0,"Gabrielchester, CA",Safari,iOS
+user_163,2023-05-06 10:44:31,camp_002,YouTube,Tablet,/home,72,1,0,0,0,0.0,"Weaverfort, IA",Firefox,iOS
+user_164,2023-05-03 09:41:22,camp_012,Facebook,Tablet,/checkout,19,1,0,0,0,0.0,"Craighaven, VI",Chrome,Windows
+user_165,2023-05-01 18:47:11,camp_012,YouTube,Mobile,/account/login,186,1,0,0,0,0.0,"West Joseph, NM",Opera,macOS
+user_166,2023-05-04 20:53:04,camp_008,Twitter,Mobile,/special-offer,25,0,0,0,0,0.0,"Andrewmouth, AL",Edge,Windows
+user_167,2023-05-06 09:46:01,camp_003,Instagram,Desktop,/account/signup,269,1,0,0,0,0.0,"East Victorborough, DE",Firefox,Linux
+user_168,2023-05-07 11:08:26,camp_015,Referral,Tablet,/account/signup,168,1,0,0,0,0.0,"West Logan, VA",Chrome,macOS
+user_169,2023-05-06 10:28:48,camp_003,Affiliate,Tablet,/products/books,236,1,7,0,0,0.0,"Perezside, NY",Safari,Android
+user_170,2023-05-07 10:51:38,camp_013,Organic Search,Desktop,/products/apparel,138,0,7,0,0,0.0,"North Oscarchester, MI",Edge,iOS
+user_171,2023-05-01 12:55:40,camp_005,Organic Search,Mobile,/products/electronics,42,0,9,1,1,122.29,"New Tina, FL",Chrome,macOS
+user_172,2023-05-02 21:38:23,camp_003,Affiliate,Desktop,/account/login,39,0,0,0,0,0.0,"Edwardsfort, UT",Opera,macOS
+user_173,2023-05-02 19:06:37,camp_013,Email,Mobile,/products/books,9,1,1,0,0,0.0,"Keithchester, VA",Firefox,Windows
+user_174,2023-05-02 21:20:28,camp_001,Facebook,Desktop,/account/login,295,1,0,0,0,0.0,"Port Thomas, IN",Firefox,Android
+user_175,2023-05-06 20:19:15,camp_004,Organic Search,Desktop,/products/books,91,1,4,1,1,138.56,"Haroldport, NJ",Chrome,iOS
+user_176,2023-05-03 12:20:23,camp_013,Affiliate,Tablet,/products/apparel,196,0,6,1,1,55.33,"East Brad, DE",Chrome,iOS
+user_177,2023-05-01 19:09:17,camp_008,YouTube,Desktop,/cart,67,1,0,0,0,0.0,"New Susan, WV",Safari,macOS
+user_178,2023-05-03 17:05:53,camp_015,Facebook,Tablet,/products/home-goods,152,1,9,0,0,0.0,"West Jeff, VA",Safari,iOS
+user_179,2023-05-06 12:01:57,camp_006,Instagram,Desktop,/account/signup,31,1,0,0,0,0.0,"Port Anna, NC",Firefox,macOS
+user_180,2023-05-05 18:16:17,camp_014,Instagram,Mobile,/special-offer,240,1,0,0,0,0.0,"Jadehaven, SD",Firefox,Android
+user_181,2023-05-02 09:14:12,camp_010,YouTube,Tablet,/account/login,218,1,0,0,0,0.0,"South Jonathon, NH",Edge,Windows
+user_182,2023-05-01 13:15:52,camp_005,YouTube,Mobile,/checkout,93,1,0,0,0,0.0,"Kimberlychester, VI",Edge,macOS
+user_183,2023-05-06 21:25:34,camp_008,Referral,Desktop,/home,57,0,0,0,0,0.0,"Davidmouth, OH",Firefox,Android
+user_184,2023-05-06 16:27:50,camp_014,Referral,Desktop,/account/signup,169,0,0,0,0,0.0,"Vickiborough, AZ",Safari,iOS
+user_185,2023-05-05 21:35:19,camp_013,Facebook,Tablet,/account/login,109,1,0,0,0,0.0,"South Monica, OH",Firefox,macOS
+user_186,2023-05-06 10:28:13,camp_011,YouTube,Mobile,/checkout,173,1,0,0,0,0.0,"Port Jasonchester, AZ",Safari,Linux
+user_187,2023-05-06 17:57:23,camp_003,Google Ads,Mobile,/products/books,275,1,4,0,0,0.0,"Martinfort, AL",Opera,Windows
+user_188,2023-05-03 09:14:34,camp_015,Affiliate,Tablet,/cart,59,1,0,0,0,0.0,"Christinahaven, AL",Safari,iOS
+user_189,2023-05-04 09:41:23,camp_003,Email,Tablet,/products/electronics,255,0,1,0,0,0.0,"New Eric, MI",Edge,Linux
+user_190,2023-05-02 15:09:13,camp_015,Affiliate,Desktop,/special-offer,280,1,0,0,0,0.0,"Ashleyfort, SC",Safari,Android
+user_191,2023-05-07 16:07:07,camp_006,Direct,Mobile,/cart,276,1,0,0,0,0.0,"Fowlershire, MH",Firefox,Windows
+user_192,2023-05-05 14:13:08,camp_012,Facebook,Tablet,/products/apparel,66,1,10,1,0,0.0,"East Michelle, NC",Opera,Windows
+user_193,2023-05-03 21:42:03,camp_005,Direct,Desktop,/cart,261,1,0,0,0,0.0,"South Daveport, KS",Edge,Linux
+user_194,2023-05-05 09:35:11,camp_008,Email,Mobile,/products/electronics,16,1,2,0,0,0.0,"Samuelton, NH",Firefox,Windows
+user_195,2023-05-05 17:21:03,camp_004,Instagram,Mobile,/home,55,1,0,0,0,0.0,"North Charlesmouth, NM",Safari,Android
+user_196,2023-05-06 15:49:57,camp_012,Instagram,Desktop,/account/signup,165,1,0,0,0,0.0,"South Jenniferville, TX",Chrome,Windows
+user_197,2023-05-02 15:21:32,camp_006,Instagram,Mobile,/home,114,1,0,0,0,0.0,"Kelleybury, VT",Edge,Android
+user_198,2023-05-01 11:36:14,camp_007,Direct,Tablet,/home,97,1,0,0,0,0.0,"Smithland, OK",Chrome,Android
+user_199,2023-05-07 19:59:38,camp_006,Instagram,Desktop,/products/books,136,1,2,0,0,0.0,"Port Nicholas, ME",Firefox,macOS
+user_200,2023-05-05 17:59:42,camp_001,Facebook,Mobile,/account/signup,56,1,0,0,0,0.0,"North Courtney, IL",Chrome,macOS
+user_201,2023-05-06 12:43:10,camp_004,Twitter,Mobile,/cart,107,1,0,0,0,0.0,"Martinmouth, SC",Safari,Linux
+user_202,2023-05-04 15:41:11,camp_001,Email,Mobile,/products/apparel,145,1,1,0,0,0.0,"Youngside, ID",Edge,Linux
+user_203,2023-05-05 20:32:18,camp_007,Organic Search,Desktop,/cart,299,0,0,0,0,0.0,"West Angelhaven, OH",Firefox,Windows
+user_204,2023-05-02 20:53:51,camp_003,Organic Search,Desktop,/checkout,12,1,0,0,0,0.0,"Cheyennemouth, AZ",Chrome,Linux
+user_205,2023-05-01 12:15:49,camp_013,Google Ads,Mobile,/checkout,46,1,0,0,0,0.0,"Taramouth, CT",Safari,Linux
+user_206,2023-05-03 14:12:05,camp_005,Organic Search,Tablet,/products/books,269,1,2,0,0,0.0,"Hancockmouth, OK",Safari,macOS
+user_207,2023-05-05 21:54:32,camp_002,Direct,Desktop,/home,75,0,0,0,0,0.0,"Greenton, PA",Chrome,Android
+user_208,2023-05-03 18:12:43,camp_003,Affiliate,Desktop,/checkout,138,0,0,0,0,0.0,"West Williamshire, DE",Chrome,Android
+user_209,2023-05-05 14:20:51,camp_014,YouTube,Mobile,/products/home-goods,179,1,9,1,0,0.0,"North Robert, TX",Opera,iOS
+user_210,2023-05-02 20:23:49,camp_013,Twitter,Desktop,/account/login,237,1,0,0,0,0.0,"New Amanda, NC",Safari,Windows
+user_211,2023-05-05 19:32:44,camp_004,Referral,Desktop,/cart,211,0,0,0,0,0.0,"Bryantmouth, VA",Safari,Windows
+user_212,2023-05-05 20:41:58,camp_001,Twitter,Mobile,/cart,128,0,0,0,0,0.0,"Hillbury, WV",Edge,Android
+user_213,2023-05-02 15:13:26,camp_014,Google Ads,Tablet,/account/signup,20,1,0,0,0,0.0,"Port Nancy, CA",Opera,Windows
+user_214,2023-05-07 15:05:30,camp_002,Google Ads,Desktop,/cart,265,1,0,0,0,0.0,"South Michaeltown, NV",Safari,iOS
+user_215,2023-05-07 10:18:54,camp_009,Instagram,Desktop,/products/home-goods,124,1,0,0,0,0.0,"Port Jennifertown, CA",Firefox,iOS
+user_216,2023-05-01 10:24:44,camp_009,Google Ads,Mobile,/products/home-goods,58,1,0,0,0,0.0,"Lake Nicole, UT",Edge,macOS
+user_217,2023-05-03 10:08:47,camp_012,Organic Search,Desktop,/home,100,0,0,0,0,0.0,"Davidhaven, WI",Chrome,Android
+user_218,2023-05-04 13:54:28,camp_002,Affiliate,Tablet,/products/books,97,0,10,0,0,0.0,"Coreyview, MI",Firefox,Linux
+user_219,2023-05-04 14:12:12,camp_004,YouTube,Desktop,/products/apparel,77,1,0,0,0,0.0,"South Amy, AS",Opera,Android
+user_220,2023-05-06 10:56:30,camp_010,Email,Mobile,/account/signup,86,0,0,0,0,0.0,"Youngburgh, ME",Opera,Linux
+user_221,2023-05-02 18:30:31,camp_005,Organic Search,Desktop,/account/signup,286,1,0,0,0,0.0,"Rodgersmouth, MA",Edge,macOS
+user_222,2023-05-04 11:34:25,camp_003,Twitter,Desktop,/checkout,124,1,0,0,0,0.0,"West Matthewview, WY",Chrome,Windows
+user_223,2023-05-06 12:03:10,camp_008,Direct,Tablet,/products/apparel,178,1,0,0,0,0.0,"West Jennifer, VA",Edge,Android
+user_224,2023-05-06 19:40:29,camp_010,Google Ads,Mobile,/special-offer,127,1,0,0,0,0.0,"Victoriaville, LA",Safari,Linux
+user_225,2023-05-03 20:04:05,camp_015,Email,Mobile,/products/electronics,121,0,2,0,0,0.0,"New Ronald, MH",Chrome,macOS
+user_226,2023-05-02 11:00:10,camp_001,YouTube,Mobile,/account/signup,242,1,0,0,0,0.0,"Lake Andrew, CT",Edge,Android
+user_227,2023-05-06 14:17:41,camp_011,Google Ads,Mobile,/cart,151,1,0,0,0,0.0,"Greenmouth, MP",Safari,Windows
+user_228,2023-05-05 13:27:55,camp_011,Twitter,Mobile,/home,282,1,0,0,0,0.0,"Jessicabury, OK",Opera,macOS
+user_229,2023-05-06 14:47:03,camp_002,Affiliate,Mobile,/checkout,133,1,0,0,0,0.0,"New Patricia, NE",Safari,Windows
+user_230,2023-05-03 17:46:44,camp_006,Instagram,Tablet,/products/books,32,1,4,0,0,0.0,"Howellhaven, PA",Safari,macOS
+user_231,2023-05-04 15:34:10,camp_014,Instagram,Desktop,/products/books,202,1,5,1,0,0.0,"New Kenneth, MA",Firefox,Linux
+user_232,2023-05-06 11:08:22,camp_014,Referral,Desktop,/products/home-goods,228,0,5,1,1,523.53,"Websterside, PA",Opera,macOS
+user_233,2023-05-04 13:20:28,camp_006,Twitter,Tablet,/products/apparel,294,1,9,1,0,0.0,"Cynthialand, PR",Safari,Linux
+user_234,2023-05-07 09:05:28,camp_008,Instagram,Mobile,/home,183,1,0,0,0,0.0,"Ginaside, OR",Edge,Android
+user_235,2023-05-02 09:31:31,camp_010,Facebook,Mobile,/special-offer,235,1,0,0,0,0.0,"Lake Paulshire, MP",Opera,macOS
+user_236,2023-05-02 12:11:59,camp_002,Instagram,Mobile,/products/electronics,82,1,3,0,0,0.0,"Lindaberg, MD",Safari,macOS
+user_237,2023-05-04 13:55:12,camp_010,Organic Search,Desktop,/products/home-goods,233,0,9,0,0,0.0,"East Samantha, IN",Edge,Android
+user_238,2023-05-04 14:00:49,camp_014,Direct,Mobile,/products/apparel,104,0,5,0,0,0.0,"East Justin, AS",Safari,Android
+user_239,2023-05-05 20:08:22,camp_014,Email,Mobile,/products/home-goods,284,0,8,0,0,0.0,"South Danielleborough, VA",Edge,iOS
+user_240,2023-05-04 20:17:15,camp_008,Email,Desktop,/account/login,133,1,0,0,0,0.0,"East Coreyburgh, TX",Safari,Android
+user_241,2023-05-03 19:18:37,camp_007,YouTube,Mobile,/cart,272,1,0,0,0,0.0,"Lake Daniel, IL",Chrome,macOS
+user_242,2023-05-05 18:38:11,camp_012,Affiliate,Tablet,/home,91,1,0,0,0,0.0,"Lake Donald, GA",Safari,Windows
+user_243,2023-05-02 11:09:44,camp_007,Direct,Mobile,/special-offer,53,1,0,0,0,0.0,"New Hailey, MO",Opera,Linux
+user_244,2023-05-02 19:46:30,camp_005,Email,Tablet,/account/signup,63,0,0,0,0,0.0,"West Jordanbury, HI",Firefox,iOS
+user_245,2023-05-03 18:06:22,camp_012,Google Ads,Mobile,/products/electronics,71,1,1,0,0,0.0,"Hillland, ME",Firefox,macOS
+user_246,2023-05-01 11:19:29,camp_010,Instagram,Desktop,/products/electronics,251,1,6,0,0,0.0,"South Gabrielaview, MN",Opera,iOS
+user_247,2023-05-01 12:41:06,camp_005,Facebook,Mobile,/home,148,1,0,0,0,0.0,"Lake Jared, NM",Opera,Linux
+user_248,2023-05-01 21:20:26,camp_003,YouTube,Desktop,/account/login,156,1,0,0,0,0.0,"Port Traceyfurt, CO",Safari,Windows
+user_249,2023-05-07 13:32:21,camp_004,Twitter,Tablet,/special-offer,237,1,0,0,0,0.0,"Burnsport, MH",Edge,Linux
+user_250,2023-05-01 14:26:29,camp_006,Referral,Tablet,/cart,145,0,0,0,0,0.0,"South Kayla, SD",Firefox,Linux
+user_251,2023-05-03 09:49:26,camp_009,Direct,Mobile,/products/home-goods,247,0,8,1,0,0.0,"Williamchester, MP",Chrome,macOS
+user_252,2023-05-07 15:42:08,camp_005,Instagram,Mobile,/special-offer,100,1,0,0,0,0.0,"Calderonborough, AK",Firefox,Linux
+user_253,2023-05-02 20:58:07,camp_010,Facebook,Mobile,/products/electronics,237,1,6,0,0,0.0,"Longstad, VT",Edge,iOS
+user_254,2023-05-05 19:28:19,camp_008,Affiliate,Tablet,/products/apparel,199,0,2,0,0,0.0,"Natalieborough, IL",Opera,Android
+user_255,2023-05-04 14:41:56,camp_006,Direct,Desktop,/checkout,249,1,0,0,0,0.0,"New Kristin, PR",Chrome,Linux
+user_256,2023-05-05 15:49:48,camp_011,Twitter,Desktop,/special-offer,59,0,0,0,0,0.0,"Daleview, DC",Edge,Linux
+user_257,2023-05-07 18:21:30,camp_006,Facebook,Desktop,/products/electronics,289,1,7,1,0,0.0,"Matthewburgh, IL",Edge,macOS
+user_258,2023-05-01 10:11:08,camp_002,YouTube,Desktop,/cart,291,1,0,0,0,0.0,"West Danielle, NV",Chrome,Android
+user_259,2023-05-06 10:32:38,camp_005,YouTube,Mobile,/products/electronics,227,1,7,0,0,0.0,"Garyberg, NM",Safari,Android
+user_260,2023-05-06 17:38:51,camp_005,Referral,Desktop,/products/books,151,1,3,0,0,0.0,"Brettmouth, FL",Firefox,Windows
+user_261,2023-05-07 10:35:38,camp_014,Organic Search,Mobile,/special-offer,64,0,0,0,0,0.0,"South Zacharyburgh, NY",Edge,iOS
+user_262,2023-05-05 14:33:58,camp_011,Instagram,Desktop,/products/apparel,39,1,2,0,0,0.0,"Lake Alexander, SD",Chrome,Linux
+user_263,2023-05-03 12:28:24,camp_009,Facebook,Mobile,/products/home-goods,232,1,10,0,0,0.0,"Donnachester, TX",Firefox,Linux
+user_264,2023-05-07 19:40:12,camp_002,Affiliate,Desktop,/cart,126,1,0,0,0,0.0,"East Annton, ID",Safari,Android
+user_265,2023-05-04 11:28:46,camp_011,Organic Search,Desktop,/home,132,0,0,0,0,0.0,"Lake Amyburgh, MD",Safari,macOS
+user_266,2023-05-05 15:47:10,camp_011,Direct,Tablet,/account/login,279,0,0,0,0,0.0,"Perezfort, DE",Edge,Windows
+user_267,2023-05-02 16:39:39,camp_007,Organic Search,Desktop,/products/electronics,48,1,6,0,0,0.0,"Port Andrea, SC",Firefox,Android
+user_268,2023-05-02 21:58:02,camp_012,YouTube,Tablet,/special-offer,238,1,0,0,0,0.0,"Lake Stevenshire, AZ",Firefox,Windows
+user_269,2023-05-04 14:46:15,camp_006,YouTube,Desktop,/products/electronics,233,1,6,1,0,0.0,"Lake Williamton, IA",Firefox,macOS
+user_270,2023-05-07 18:40:36,camp_004,Google Ads,Desktop,/checkout,190,1,0,0,0,0.0,"New Ryan, IL",Edge,Linux
+user_271,2023-05-01 10:55:04,camp_010,Organic Search,Tablet,/account/login,45,1,0,0,0,0.0,"Joshuaview, WA",Firefox,Android
+user_272,2023-05-06 11:35:52,camp_011,Google Ads,Mobile,/checkout,30,1,0,0,0,0.0,"Vasquezmouth, NM",Edge,iOS
+user_273,2023-05-03 21:02:49,camp_004,Direct,Tablet,/account/signup,286,0,0,0,0,0.0,"Port Patriciatown, MA",Firefox,Windows
+user_274,2023-05-07 11:54:15,camp_005,Organic Search,Mobile,/checkout,162,0,0,0,0,0.0,"Vazquezton, ND",Safari,macOS
+user_275,2023-05-03 09:44:43,camp_007,Email,Desktop,/home,9,0,0,0,0,0.0,"Smithmouth, AK",Firefox,Android
+user_276,2023-05-05 10:32:03,camp_011,YouTube,Tablet,/account/login,72,1,0,0,0,0.0,"Lake Kristinfort, AL",Chrome,Android
+user_277,2023-05-07 20:56:28,camp_014,Twitter,Mobile,/products/apparel,35,0,6,1,0,0.0,"Comptonland, NC",Chrome,Android
+user_278,2023-05-02 13:54:51,camp_005,Affiliate,Tablet,/products/electronics,122,0,6,1,0,0.0,"Port Samanthafort, VA",Firefox,Linux
+user_279,2023-05-07 21:37:11,camp_003,Referral,Desktop,/special-offer,171,1,0,0,0,0.0,"Jamesville, ID",Chrome,Android
+user_280,2023-05-02 17:31:41,camp_009,Direct,Desktop,/products/books,110,1,7,1,1,39.67,"South Carly, NJ",Chrome,Android
+user_281,2023-05-04 10:52:20,camp_005,Organic Search,Desktop,/home,14,1,0,0,0,0.0,"Port Ashley, AS",Firefox,iOS
+user_282,2023-05-02 11:19:52,camp_010,Instagram,Tablet,/cart,287,1,0,0,0,0.0,"Owenschester, MP",Edge,Linux
+user_283,2023-05-03 11:26:35,camp_007,Direct,Desktop,/products/books,150,0,9,0,0,0.0,"Port Sandra, MS",Safari,Android
+user_284,2023-05-01 20:25:28,camp_001,Direct,Tablet,/products/books,115,0,7,0,0,0.0,"Port Latoyaport, DE",Safari,Android
+user_285,2023-05-04 13:35:22,camp_015,Direct,Desktop,/products/home-goods,24,1,4,0,0,0.0,"West Tamaraview, WA",Firefox,Linux
+user_286,2023-05-02 12:27:21,camp_005,Email,Tablet,/products/home-goods,225,0,9,1,0,0.0,"Sheliamouth, CT",Opera,Linux
+user_287,2023-05-02 15:18:19,camp_008,Direct,Desktop,/home,289,1,0,0,0,0.0,"Wallaceburgh, FM",Chrome,Linux
+user_288,2023-05-05 09:56:52,camp_001,Google Ads,Mobile,/cart,78,1,0,0,0,0.0,"Kimbury, DE",Edge,iOS
+user_289,2023-05-07 19:48:01,camp_014,Google Ads,Desktop,/products/home-goods,220,1,7,0,0,0.0,"North Annaberg, DE",Opera,macOS
+user_290,2023-05-06 11:10:53,camp_011,Affiliate,Tablet,/products/apparel,250,0,7,1,0,0.0,"Robertafort, IL",Opera,Linux
+user_291,2023-05-01 11:55:03,camp_014,Organic Search,Desktop,/account/signup,293,0,0,0,0,0.0,"Christinaport, MO",Chrome,Android
+user_292,2023-05-07 09:51:53,camp_012,Instagram,Desktop,/products/home-goods,49,1,4,0,0,0.0,"Churchside, ND",Chrome,macOS
+user_293,2023-05-06 20:37:39,camp_011,Affiliate,Desktop,/products/home-goods,37,1,5,1,1,406.23,"Walterston, SD",Opera,macOS
+user_294,2023-05-02 10:12:38,camp_008,Instagram,Mobile,/cart,107,1,0,0,0,0.0,"Port Albert, IA",Opera,macOS
+user_295,2023-05-05 11:19:17,camp_015,Organic Search,Desktop,/cart,42,1,0,0,0,0.0,"Cherylville, NE",Edge,Linux
+user_296,2023-05-02 13:47:28,camp_015,Facebook,Tablet,/account/login,254,1,0,0,0,0.0,"East Lindsayshire, ID",Safari,macOS
+user_297,2023-05-03 19:21:46,camp_006,Affiliate,Desktop,/products/apparel,252,1,7,0,0,0.0,"South Adamburgh, WY",Safari,macOS
+user_298,2023-05-03 21:52:48,camp_007,Instagram,Tablet,/account/signup,187,1,0,0,0,0.0,"Theresaville, IA",Firefox,iOS
+user_299,2023-05-04 09:12:25,camp_007,Twitter,Tablet,/products/home-goods,140,1,4,1,1,317.13,"Allisonshire, AL",Opera,Windows
+user_300,2023-05-07 12:56:03,camp_015,Affiliate,Tablet,/account/signup,60,1,0,0,0,0.0,"North Kennethhaven, MH",Firefox,Android
