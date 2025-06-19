@@ -57,11 +57,7 @@ Each metric in the app includes an expandable section with:
 - ...and more
 
 ## 📷 Preview
-![market-campaign](images/1.png)
-![market-campaign](images/3.png)
-![market-campaign](images/5.png)
-![market-campaign](images/2.png)
-![market-campaign](images/4.png)
+[View the app](https://marketing-campaign-performance-analysis.onrender.com/)
 
 
 ## 💡 Use Cases
