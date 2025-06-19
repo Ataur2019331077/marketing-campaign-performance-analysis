@@ -21,9 +21,17 @@ df = df[df["campaign_id"].isin(campaign) & df["device_type"].isin(device) & df["
 
 # --- Title ---
 st.markdown(
-    "<h1 style='text-align: center;'>📊 Marketing Campaign Performance Dashboard</h1>",
+    """
+    <h1 style='text-align: center;
+               background: -webkit-linear-gradient(#1D2671, #C33764);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;'>
+        Marketing Campaign Performance Dashboard
+    </h1>
+    """,
     unsafe_allow_html=True
 )
+
 
 # --- KPIs ---
 st.subheader("📌 Key Performance Indicators")
